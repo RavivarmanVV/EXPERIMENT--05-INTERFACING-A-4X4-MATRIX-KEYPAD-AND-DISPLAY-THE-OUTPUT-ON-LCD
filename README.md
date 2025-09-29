@@ -471,7 +471,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
- <img width="1915" height="1199" alt="Screenshot 2025-09-29 135014" src="https://github.com/user-attachments/assets/b5e219d5-12e2-493b-b7d2-0ac0b4f65a0e" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/0e58e2f7-5331-4c07-b5b6-8aeabb2151bf" />
+
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
